@@ -9,7 +9,7 @@ Decision Trees, Random Forest, Naive Bayes and Support Vector Clustering algorit
 # Details about the project
 
 DESCRIPTION
-Dataset: Pacific_train.csv and Pacific_test.csv
+Dataset: Pacific_train.csv
 
 Dataset Description:
 
@@ -43,7 +43,7 @@ High Wind NW
 
 Problem Statement 
 
-You are provided with two data sets “Pacific_train.csv” and “Pacific_test.csv” having hurricane and typhoon information.
+You are provided with “Pacific_train.csv” dataset having hurricane and typhoon information.
 
 You are required to make a multi-class classification model where the target variable is “Status” to classify hurricanes and typhoons into the correct category.
 
