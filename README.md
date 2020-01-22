@@ -6,7 +6,7 @@ Objective of this project was to train a multi-class classification model where 
 The project involved training a multi-class classifier model, Hyperparameter tuning.
 Decision Trees, Random Forest, Naive Bayes and Support Vector Clustering algorithms were used.
 
-#Details about the project
+# Details about the project
 
 DESCRIPTION
 Dataset: Pacific_train.csv and Pacific_test.csv
