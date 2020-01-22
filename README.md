@@ -8,7 +8,7 @@ Decision Trees, Random Forest, Naive Bayes and Support Vector Clustering algorit
 
 # Details about the project
 
-DESCRIPTION
+
 Dataset: Pacific_train.csv
 
 Dataset Description:
