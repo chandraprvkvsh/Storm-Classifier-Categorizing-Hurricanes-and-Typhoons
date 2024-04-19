@@ -1,4 +1,3 @@
-# Classification-of-Hurricanes-and-Typhoons-
 # Brief Introduction
 
 Objective of this project was to train a multi-class classification model where the target variable classifies hurricanes and typhoons into the correct category utilizing two datasets having respective information.
