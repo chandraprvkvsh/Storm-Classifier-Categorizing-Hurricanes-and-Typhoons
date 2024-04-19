@@ -48,7 +48,7 @@ You are required to make a multi-class classification model where the target var
 
 Carry out the following tasks and select the appropriate features and make classification models using the following algorithms having a 10-fold cross validation score : 
 
-Decision Trees ( Applying different criterion and choosing the best )
+Decision Trees (Applying different criterion and choosing the best)
 Random Forest
 Naive Bayes
 
